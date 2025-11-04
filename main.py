@@ -9,6 +9,7 @@ def main():
         print(f"\tTemperatura: {info['temperatura']} °C")
         print(f"\tSensación térmica: {info['sensacion']} °C")
         print(f"\tDescripción: {info['descripcion']}")
+        print("Hola mi nombre es Jose.")
     else:
         print("No se pudo obtener la información meteorológica.")
 
